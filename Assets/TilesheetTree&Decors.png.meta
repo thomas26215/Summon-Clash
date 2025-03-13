@@ -1,0 +1,3855 @@
+fileFormatVersion: 2
+guid: 83a094dadfa23e87795e4d743de16f24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6194875902796414704
+    second: TilesheetTree&Decors_0
+  - first:
+      213: -1171889894938335182
+    second: TilesheetTree&Decors_1
+  - first:
+      213: 6612751478980949544
+    second: TilesheetTree&Decors_2
+  - first:
+      213: -5898128842380697872
+    second: TilesheetTree&Decors_3
+  - first:
+      213: -5649012253306536102
+    second: TilesheetTree&Decors_4
+  - first:
+      213: -4279903642460779895
+    second: TilesheetTree&Decors_5
+  - first:
+      213: -4250870811992911400
+    second: TilesheetTree&Decors_6
+  - first:
+      213: -4848180311884051488
+    second: TilesheetTree&Decors_7
+  - first:
+      213: 3048021048640718261
+    second: TilesheetTree&Decors_8
+  - first:
+      213: 2933700006667140121
+    second: TilesheetTree&Decors_9
+  - first:
+      213: -7026990577324692679
+    second: TilesheetTree&Decors_10
+  - first:
+      213: -1125421437289911635
+    second: TilesheetTree&Decors_11
+  - first:
+      213: 8986678550656590849
+    second: TilesheetTree&Decors_12
+  - first:
+      213: 409925262039113434
+    second: TilesheetTree&Decors_13
+  - first:
+      213: 4848218765183951643
+    second: TilesheetTree&Decors_14
+  - first:
+      213: 6839882930673233233
+    second: TilesheetTree&Decors_15
+  - first:
+      213: -859146219133607916
+    second: TilesheetTree&Decors_16
+  - first:
+      213: -7221546205549818052
+    second: TilesheetTree&Decors_17
+  - first:
+      213: 1005938228713075142
+    second: TilesheetTree&Decors_18
+  - first:
+      213: -1897326812780065290
+    second: TilesheetTree&Decors_19
+  - first:
+      213: 9138073330942931750
+    second: TilesheetTree&Decors_20
+  - first:
+      213: 4701900726416620949
+    second: TilesheetTree&Decors_21
+  - first:
+      213: -686746978109572947
+    second: TilesheetTree&Decors_22
+  - first:
+      213: -6715284093334644981
+    second: TilesheetTree&Decors_23
+  - first:
+      213: -6121697922497189125
+    second: TilesheetTree&Decors_24
+  - first:
+      213: 7338502992512607395
+    second: TilesheetTree&Decors_25
+  - first:
+      213: 3007043391993286697
+    second: TilesheetTree&Decors_26
+  - first:
+      213: 3658326229501505202
+    second: TilesheetTree&Decors_27
+  - first:
+      213: 7249993712789309861
+    second: TilesheetTree&Decors_28
+  - first:
+      213: 4856152509845022071
+    second: TilesheetTree&Decors_29
+  - first:
+      213: 587731402519500465
+    second: TilesheetTree&Decors_30
+  - first:
+      213: 8185565131058941081
+    second: TilesheetTree&Decors_31
+  - first:
+      213: -3720520718218929462
+    second: TilesheetTree&Decors_32
+  - first:
+      213: 5865809363070806521
+    second: TilesheetTree&Decors_33
+  - first:
+      213: -2160983161509803354
+    second: TilesheetTree&Decors_34
+  - first:
+      213: 5733823390787094254
+    second: TilesheetTree&Decors_35
+  - first:
+      213: -5954519398264762064
+    second: TilesheetTree&Decors_36
+  - first:
+      213: -1335890065836032203
+    second: TilesheetTree&Decors_37
+  - first:
+      213: -8994817570944014659
+    second: TilesheetTree&Decors_38
+  - first:
+      213: 7384961877489825796
+    second: TilesheetTree&Decors_39
+  - first:
+      213: -4001247266999058354
+    second: TilesheetTree&Decors_40
+  - first:
+      213: -2915065284538375803
+    second: TilesheetTree&Decors_41
+  - first:
+      213: -4108045522253241754
+    second: TilesheetTree&Decors_42
+  - first:
+      213: -1634342532234430476
+    second: TilesheetTree&Decors_43
+  - first:
+      213: 2649613236955607279
+    second: TilesheetTree&Decors_44
+  - first:
+      213: 724259494673352519
+    second: TilesheetTree&Decors_45
+  - first:
+      213: -8557668062708006689
+    second: TilesheetTree&Decors_46
+  - first:
+      213: -5393567262345406811
+    second: TilesheetTree&Decors_47
+  - first:
+      213: 1153874802103462261
+    second: TilesheetTree&Decors_48
+  - first:
+      213: -8710749535428108004
+    second: TilesheetTree&Decors_49
+  - first:
+      213: -3480044395961568806
+    second: TilesheetTree&Decors_50
+  - first:
+      213: -9197199271614904607
+    second: TilesheetTree&Decors_51
+  - first:
+      213: 5100850678608695238
+    second: TilesheetTree&Decors_52
+  - first:
+      213: -9095990986394630036
+    second: TilesheetTree&Decors_53
+  - first:
+      213: -1035767186807306354
+    second: TilesheetTree&Decors_54
+  - first:
+      213: 4992098974056236298
+    second: TilesheetTree&Decors_55
+  - first:
+      213: -6329674385849043683
+    second: TilesheetTree&Decors_56
+  - first:
+      213: 341254243718528203
+    second: TilesheetTree&Decors_57
+  - first:
+      213: 6577414644772526114
+    second: TilesheetTree&Decors_58
+  - first:
+      213: 1644996802862957513
+    second: TilesheetTree&Decors_59
+  - first:
+      213: -7799279100727042306
+    second: TilesheetTree&Decors_60
+  - first:
+      213: -2179942914174488559
+    second: TilesheetTree&Decors_61
+  - first:
+      213: 4977569438446939038
+    second: TilesheetTree&Decors_62
+  - first:
+      213: 715877112138155793
+    second: TilesheetTree&Decors_63
+  - first:
+      213: 6306138841653366089
+    second: TilesheetTree&Decors_64
+  - first:
+      213: 4325433322621839411
+    second: TilesheetTree&Decors_65
+  - first:
+      213: 7572873316102635992
+    second: TilesheetTree&Decors_66
+  - first:
+      213: 2803927352612371835
+    second: TilesheetTree&Decors_67
+  - first:
+      213: -1221119351816820526
+    second: TilesheetTree&Decors_68
+  - first:
+      213: -7823302205172040106
+    second: TilesheetTree&Decors_69
+  - first:
+      213: -5569716676023798439
+    second: TilesheetTree&Decors_70
+  - first:
+      213: 3073671345281841117
+    second: TilesheetTree&Decors_71
+  - first:
+      213: -2403487026821011441
+    second: TilesheetTree&Decors_72
+  - first:
+      213: -5587030153813138476
+    second: TilesheetTree&Decors_73
+  - first:
+      213: -9198302322665732544
+    second: TilesheetTree&Decors_74
+  - first:
+      213: 6584301158522946243
+    second: TilesheetTree&Decors_75
+  - first:
+      213: -6977375541440744227
+    second: TilesheetTree&Decors_76
+  - first:
+      213: -4942038731405140670
+    second: TilesheetTree&Decors_77
+  - first:
+      213: 7551924414194020214
+    second: TilesheetTree&Decors_78
+  - first:
+      213: -5728636376526303461
+    second: TilesheetTree&Decors_79
+  - first:
+      213: -8668817031445964105
+    second: TilesheetTree&Decors_80
+  - first:
+      213: 7946694550870237409
+    second: TilesheetTree&Decors_81
+  - first:
+      213: 9194302986962979984
+    second: TilesheetTree&Decors_82
+  - first:
+      213: -1343032642048578028
+    second: TilesheetTree&Decors_83
+  - first:
+      213: 7594041317765113501
+    second: TilesheetTree&Decors_84
+  - first:
+      213: -7243684056369910928
+    second: TilesheetTree&Decors_85
+  - first:
+      213: 5546069143684792886
+    second: TilesheetTree&Decors_86
+  - first:
+      213: -979353824016384388
+    second: TilesheetTree&Decors_87
+  - first:
+      213: 535457909184692377
+    second: TilesheetTree&Decors_88
+  - first:
+      213: 8348772952986670977
+    second: TilesheetTree&Decors_89
+  - first:
+      213: 1658450994257081593
+    second: TilesheetTree&Decors_90
+  - first:
+      213: -1182876223828849808
+    second: TilesheetTree&Decors_91
+  - first:
+      213: 7696559550684616016
+    second: TilesheetTree&Decors_92
+  - first:
+      213: 1152471043438638948
+    second: TilesheetTree&Decors_93
+  - first:
+      213: 3238891013296392589
+    second: TilesheetTree&Decors_94
+  - first:
+      213: 6186892474310805699
+    second: TilesheetTree&Decors_95
+  - first:
+      213: -8060908085722250123
+    second: TilesheetTree&Decors_96
+  - first:
+      213: -5443902481579003146
+    second: TilesheetTree&Decors_97
+  - first:
+      213: -8692304933182010471
+    second: TilesheetTree&Decors_98
+  - first:
+      213: 6454320594312030613
+    second: TilesheetTree&Decors_99
+  - first:
+      213: 4247322877329476784
+    second: TilesheetTree&Decors_100
+  - first:
+      213: 5811382531405415858
+    second: TilesheetTree&Decors_101
+  - first:
+      213: 5979419204500224204
+    second: TilesheetTree&Decors_102
+  - first:
+      213: -5818435567336268392
+    second: TilesheetTree&Decors_103
+  - first:
+      213: 462631761424640421
+    second: TilesheetTree&Decors_104
+  - first:
+      213: 5867803002133910166
+    second: TilesheetTree&Decors_105
+  - first:
+      213: 3114181651432733499
+    second: TilesheetTree&Decors_106
+  - first:
+      213: 6782782522169477657
+    second: TilesheetTree&Decors_107
+  - first:
+      213: 4733321463528681697
+    second: TilesheetTree&Decors_108
+  - first:
+      213: -7735343229118526958
+    second: TilesheetTree&Decors_109
+  - first:
+      213: -3289242962880443742
+    second: TilesheetTree&Decors_110
+  - first:
+      213: -3586056046447019347
+    second: TilesheetTree&Decors_111
+  - first:
+      213: -8523409177761807531
+    second: TilesheetTree&Decors_112
+  - first:
+      213: -6967533244060206351
+    second: TilesheetTree&Decors_113
+  - first:
+      213: 499311695366509748
+    second: TilesheetTree&Decors_114
+  - first:
+      213: -65749965047572669
+    second: TilesheetTree&Decors_115
+  - first:
+      213: 7474378937752803404
+    second: TilesheetTree&Decors_116
+  - first:
+      213: -5349978995337501916
+    second: TilesheetTree&Decors_117
+  - first:
+      213: 6578183525759051246
+    second: TilesheetTree&Decors_118
+  - first:
+      213: 8371103166586275279
+    second: TilesheetTree&Decors_119
+  - first:
+      213: 2096527220514469582
+    second: TilesheetTree&Decors_120
+  - first:
+      213: 7275197791222868315
+    second: TilesheetTree&Decors_121
+  - first:
+      213: -3306967183019682040
+    second: TilesheetTree&Decors_122
+  - first:
+      213: 7408336479061669463
+    second: TilesheetTree&Decors_123
+  - first:
+      213: 515739261245864107
+    second: TilesheetTree&Decors_124
+  - first:
+      213: 7167452054901032247
+    second: TilesheetTree&Decors_125
+  - first:
+      213: -1240013280723167050
+    second: TilesheetTree&Decors_126
+  - first:
+      213: 3393879977434129933
+    second: TilesheetTree&Decors_127
+  - first:
+      213: -3703292134899616950
+    second: TilesheetTree&Decors_128
+  - first:
+      213: -72952699866014605
+    second: TilesheetTree&Decors_129
+  - first:
+      213: 3899869060244316543
+    second: TilesheetTree&Decors_130
+  - first:
+      213: -3256185667243118338
+    second: TilesheetTree&Decors_131
+  - first:
+      213: 4818531818823571389
+    second: TilesheetTree&Decors_132
+  - first:
+      213: -6855472098375156513
+    second: TilesheetTree&Decors_133
+  - first:
+      213: 6513890196617640616
+    second: TilesheetTree&Decors_134
+  - first:
+      213: -6420514932094817573
+    second: TilesheetTree&Decors_135
+  - first:
+      213: -4877285678456385020
+    second: TilesheetTree&Decors_136
+  - first:
+      213: 806884802920864109
+    second: TilesheetTree&Decors_137
+  - first:
+      213: -8069798976909267053
+    second: TilesheetTree&Decors_138
+  - first:
+      213: 8615651971364976356
+    second: TilesheetTree&Decors_139
+  - first:
+      213: 460367807509608742
+    second: TilesheetTree&Decors_140
+  - first:
+      213: 7495775844811728381
+    second: TilesheetTree&Decors_141
+  - first:
+      213: 1544432724676753151
+    second: TilesheetTree&Decors_142
+  - first:
+      213: -950104379065542497
+    second: TilesheetTree&Decors_143
+  - first:
+      213: 8922194321576205239
+    second: TilesheetTree&Decors_144
+  - first:
+      213: -9108180567776606960
+    second: TilesheetTree&Decors_145
+  - first:
+      213: -434864834073577487
+    second: TilesheetTree&Decors_146
+  - first:
+      213: -3315087765916180521
+    second: TilesheetTree&Decors_147
+  - first:
+      213: -3729141679853487026
+    second: TilesheetTree&Decors_148
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 193
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01141323031670aa0800000000000000
+      internalID: -6194875902796414704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 575
+        width: 94
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238a458795c9cbfe0800000000000000
+      internalID: -1171889894938335182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 479
+        width: 145
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826399c2f6635cb50800000000000000
+      internalID: 6612751478980949544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 676
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe99664113a52ea0800000000000000
+      internalID: -5898128842380697872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 676
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fb5dd094daa91b0800000000000000
+      internalID: -5649012253306536102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 676
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a8936205aba94c0800000000000000
+      internalID: -4279903642460779895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_6
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 676
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d11611c48fd105c0800000000000000
+      internalID: -4250870811992911400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 644
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebcb1f61bdc7bcb0800000000000000
+      internalID: -4848180311884051488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_8
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 643
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5c420aefebc4a20800000000000000
+      internalID: 3048021048640718261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_9
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 657
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cb4f6dc9896b820800000000000000
+      internalID: 2933700006667140121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 651
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b6b8eec4d1b7e90800000000000000
+      internalID: -7026990577324692679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_11
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 652
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaa9bf5a23b160f0800000000000000
+      internalID: -1125421437289911635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_12
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 655
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1042282478817bc70800000000000000
+      internalID: 8986678550656590849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_13
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 651
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adedc4c9ad850b500800000000000000
+      internalID: 409925262039113434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_14
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 654
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b132c2ca745584340800000000000000
+      internalID: 4848218765183951643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 649
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d290449452cee50800000000000000
+      internalID: 6839882930673233233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_16
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 651
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410eb6ec013b314f0800000000000000
+      internalID: -859146219133607916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_17
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 660
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f0229ccf9e7cb90800000000000000
+      internalID: -7221546205549818052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_18
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 637
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1bd644d7fc5fd00800000000000000
+      internalID: 1005938228713075142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_19
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 651
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd8b65f0575ba5e0800000000000000
+      internalID: -1897326812780065290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_20
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 660
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623f2566745f0de70800000000000000
+      internalID: 9138073330942931750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_21
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 637
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59db6378cc1804140800000000000000
+      internalID: 4701900726416620949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 641
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8b43f034f2876f0800000000000000
+      internalID: -686746978109572947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_23
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 629
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0715fa32b48ec2a0800000000000000
+      internalID: -6715284093334644981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_24
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 641
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaee437c2c5b0ba0800000000000000
+      internalID: -6121697922497189125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_25
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 626
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4ead3379997d560800000000000000
+      internalID: 7338502992512607395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_26
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 640
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92012f3780a2bb920800000000000000
+      internalID: 3007043391993286697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_27
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 636
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be6ee5b25cf4c230800000000000000
+      internalID: 3658326229501505202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_28
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 643
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a94f92aed62d9460800000000000000
+      internalID: 7249993712789309861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_29
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 630
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7752f6c8af4846340800000000000000
+      internalID: 4856152509845022071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_30
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 646
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6548eb89a082800800000000000000
+      internalID: 587731402519500465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_31
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 639
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c87922e18f89170800000000000000
+      internalID: 8185565131058941081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_32
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 636
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca54137e1e0e5cc0800000000000000
+      internalID: -3720520718218929462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_33
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 644
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9eefd898a876150800000000000000
+      internalID: 5865809363070806521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_34
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 636
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa8b949345a202e0800000000000000
+      internalID: -2160983161509803354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_35
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 644
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6c0bcaef1a29f40800000000000000
+      internalID: 5733823390787094254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_36
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 627
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031914ad72c4d5da0800000000000000
+      internalID: -5954519398264762064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_37
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 626
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fbede1017f57de0800000000000000
+      internalID: -1335890065836032203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_38
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 631
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6a078631dfb2380800000000000000
+      internalID: -8994817570944014659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_39
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 632
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408359b43b7ac7660800000000000000
+      internalID: 7384961877489825796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_40
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40c4086fc6b878c0800000000000000
+      internalID: -4001247266999058354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_41
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 622
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5816402819b9b87d0800000000000000
+      internalID: -2915065284538375803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_42
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 623
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66226f4ec5a4df6c0800000000000000
+      internalID: -4108045522253241754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_43
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 632
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7bad44026a159e0800000000000000
+      internalID: -1634342532234430476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_44
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 622
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe079e4633155c420800000000000000
+      internalID: 2649613236955607279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_45
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 633
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74785315c261d0a00800000000000000
+      internalID: 724259494673352519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_46
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 624
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd08598cc3e0d3980800000000000000
+      internalID: -8557668062708006689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_47
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 627
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6d9b7b6233625b0800000000000000
+      internalID: -5393567262345406811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_48
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 629
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579a6aed403630010800000000000000
+      internalID: 1153874802103462261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_49
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 624
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11a865f2733d1780800000000000000
+      internalID: -8710749535428108004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_50
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 627
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad13f185f0664bfc0800000000000000
+      internalID: -3480044395961568806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_51
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 629
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e689e6cdfbfc5080800000000000000
+      internalID: -9197199271614904607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_52
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 575
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf08ceaaacd9c640800000000000000
+      internalID: 5100850678608695238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_53
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 577
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c680bc7f36c84c180800000000000000
+      internalID: -9095990986394630036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_54
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 574
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8748583b3730a1f0800000000000000
+      internalID: -1035767186807306354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05c630519f774540800000000000000
+      internalID: 4992098974056236298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_56
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 575
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15349f9eaa7828a0800000000000000
+      internalID: -6329674385849043683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_57
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 575
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccffe63de06cb400800000000000000
+      internalID: 341254243718528203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_58
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 575
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2285e1255cba74b50800000000000000
+      internalID: 6577414644772526114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_59
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 529
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3cc4b60e334d610800000000000000
+      internalID: 1644996802862957513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_60
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 529
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe5901faf463c390800000000000000
+      internalID: -7799279100727042306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_61
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 480
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110fff928794fb1e0800000000000000
+      internalID: -2179942914174488559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_62
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 479
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b687f2801e31540800000000000000
+      internalID: 4977569438446939038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_63
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 480
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117c3dbc07e4fe900800000000000000
+      internalID: 715877112138155793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_64
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 468
+        width: 144
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dca097dd7e38750800000000000000
+      internalID: 6306138841653366089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_65
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 484
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338238690b6070c30800000000000000
+      internalID: 4325433322621839411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 484
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1055f7820481960800000000000000
+      internalID: 7572873316102635992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d3674421d89e620800000000000000
+      internalID: 2803927352612371835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 439
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d86a965b66bd0fe0800000000000000
+      internalID: -1221119351816820526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_69
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 439
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eb032181c0e6390800000000000000
+      internalID: -7823302205172040106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_70
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 385
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955380a513464b2b0800000000000000
+      internalID: -5569716676023798439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_71
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 384
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd732d3bdcfd7aa20800000000000000
+      internalID: 3073671345281841117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_72
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 384
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08e218884915aed0800000000000000
+      internalID: -2403487026821011441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_73
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 384
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3629c2da1e672b0800000000000000
+      internalID: -5587030153813138476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_74
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 459
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046cbd0b5c0195080800000000000000
+      internalID: -9198302322665732544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_75
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 468
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c204ffb403206b50800000000000000
+      internalID: 6584301158522946243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_76
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 445
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4fceba9e16b2f90800000000000000
+      internalID: -6977375541440744227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_77
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 459
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ddf5435f95a6bb0800000000000000
+      internalID: -4942038731405140670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_78
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 468
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f62ae2e33ddc860800000000000000
+      internalID: 7551924414194020214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_79
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 445
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fc4c1319bcf70b0800000000000000
+      internalID: -5728636376526303461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_80
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 432
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba9ec9d6dc22b780800000000000000
+      internalID: -8668817031445964105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_81
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 432
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e027233794584e60800000000000000
+      internalID: 7946694550870237409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_82
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 433
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ccd376ad9b89f70800000000000000
+      internalID: 9194302986962979984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_83
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 434
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ea0f08de69c5de0800000000000000
+      internalID: -1343032642048578028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_84
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 460
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d966703f754736960800000000000000
+      internalID: 7594041317765113501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_85
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 463
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b29eabab3497b90800000000000000
+      internalID: -7243684056369910928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_86
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 450
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6324619708897fc40800000000000000
+      internalID: 5546069143684792886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_87
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 453
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e351ac2e2a862f0800000000000000
+      internalID: -979353824016384388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_88
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 465
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9908025a1245e6700800000000000000
+      internalID: 535457909184692377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_89
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 449
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187d82d54ccccd370800000000000000
+      internalID: 8348772952986670977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_90
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 444
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f436167460040710800000000000000
+      internalID: 1658450994257081593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_91
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 432
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b0d617754959fe0800000000000000
+      internalID: -1182876223828849808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_92
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 452
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055523b122cafca60800000000000000
+      internalID: 7696559550684616016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_93
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 444
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4677516de466eff00800000000000000
+      internalID: 1152471043438638948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_94
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 432
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d898cb9573ad2fc20800000000000000
+      internalID: 3238891013296392589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_95
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 452
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c845d20de14cd550800000000000000
+      internalID: 6186892474310805699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_96
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 433
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5748377fdc6e12090800000000000000
+      internalID: -8060908085722250123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_97
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 444
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2bd99398f5374b0800000000000000
+      internalID: -5443902481579003146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_98
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 449
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b8f4297babe5780800000000000000
+      internalID: -8692304933182010471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_99
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 435
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599e472526a529950800000000000000
+      internalID: 6454320594312030613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_100
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 437
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc0d9557a581fa30800000000000000
+      internalID: 4247322877329476784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_101
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 435
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5845e4f9d26a050800000000000000
+      internalID: 5811382531405415858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_102
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 437
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8726f061a2bf250800000000000000
+      internalID: 5979419204500224204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_103
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 431
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d5c6ccda3c04fa0800000000000000
+      internalID: -5818435567336268392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_104
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 433
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a96789c2299b6600800000000000000
+      internalID: 462631761424640421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_105
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 435
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6929922ddbf9e6150800000000000000
+      internalID: 5867803002133910166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_106
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 393
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bffab56bbc73b20800000000000000
+      internalID: 3114181651432733499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_107
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 393
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ac3a664c8412e50800000000000000
+      internalID: 6782782522169477657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_108
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 383
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0fb59fac220b140800000000000000
+      internalID: 4733321463528681697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_109
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 383
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21acaa4115a86a490800000000000000
+      internalID: -7735343229118526958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_110
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 382
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aace81d3f24a52d0800000000000000
+      internalID: -3289242962880443742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_111
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 382
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa32e68605cb3ec0800000000000000
+      internalID: -3586056046447019347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_112
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 383
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55304340384c6b980800000000000000
+      internalID: -8523409177761807531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_113
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 384
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faf01b1e695e4f90800000000000000
+      internalID: -6967533244060206351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_114
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4d48a6759ede600800000000000000
+      internalID: 499311695366509748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_115
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 386
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347585151c8661ff0800000000000000
+      internalID: -65749965047572669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48da6dfa045ab760800000000000000
+      internalID: 7474378937752803404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4236b1bf27e01c5b0800000000000000
+      internalID: -5349978995337501916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_118
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 290
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5e13060176a4b50800000000000000
+      internalID: 6578183525759051246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_119
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 192
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5c58e5af12c2470800000000000000
+      internalID: 8371103166586275279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_120
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 290
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6b3b0366c581d10800000000000000
+      internalID: 2096527220514469582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_121
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59ab8078d1b6f460800000000000000
+      internalID: 7275197791222868315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 290
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807dc3c3eda4b12d0800000000000000
+      internalID: -3306967183019682040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756f903d6c2bfc660800000000000000
+      internalID: 7408336479061669463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_124
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 287
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba838472026482700800000000000000
+      internalID: 515739261245864107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_125
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735050d4ba7e77360800000000000000
+      internalID: 7167452054901032247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_126
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 287
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b89ab5bd769acee0800000000000000
+      internalID: -1240013280723167050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_127
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06a541abdb791f20800000000000000
+      internalID: 3393879977434129933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_128
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 286
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a437fc79c634b9cc0800000000000000
+      internalID: -3703292134899616950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_129
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 286
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c941fe7e1dcfef0800000000000000
+      internalID: -72952699866014605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_130
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 287
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7126667f3e1f1630800000000000000
+      internalID: 3899869060244316543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_131
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 288
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0714d3364bfc2d0800000000000000
+      internalID: -3256185667243118338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_132
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 288
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db755e7d82dded240800000000000000
+      internalID: 4818531818823571389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_133
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 289
+        width: 44
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc3fb8c2787cd0a0800000000000000
+      internalID: -6855472098375156513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_134
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 240
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa3b4b2f9cf56a50800000000000000
+      internalID: 6513890196617640616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 191
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaa565cfafb5e6a0800000000000000
+      internalID: -6420514932094817573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_136
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 191
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402d1833486605cb0800000000000000
+      internalID: -4877285678456385020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_137
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 96
+        width: 96
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6952c40471a23b00800000000000000
+      internalID: 806884802920864109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f238c0690520090800000000000000
+      internalID: -8069798976909267053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_139
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 192
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e67a9df1d1f09770800000000000000
+      internalID: 8615651971364976356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_140
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 192
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629b2a0f41e836600800000000000000
+      internalID: 460367807509608742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5e4f1aa68560860800000000000000
+      internalID: 7495775844811728381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_142
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6b8dd516dee6510800000000000000
+      internalID: 1544432724676753151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f985142e91d80d2f0800000000000000
+      internalID: -950104379065542497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_144
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 191
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb9e82b67002db70800000000000000
+      internalID: 8922194321576205239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_145
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0154f83e70e399180800000000000000
+      internalID: -9108180567776606960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_146
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 96
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f73cb7ccbc07f9f0800000000000000
+      internalID: -434864834073577487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_147
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 95
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df9251bd317ef1d0800000000000000
+      internalID: -3315087765916180521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesheetTree&Decors_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 385
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cba37666d6f3cc0800000000000000
+      internalID: -3729141679853487026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
