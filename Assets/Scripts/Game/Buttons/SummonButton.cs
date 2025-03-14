@@ -1,16 +1,22 @@
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Tilemaps;
 
 public class SummonButton : MonoBehaviour
 {
     [Header("Configuration")]
     public int initialSummonCost = 30;
-    public int priceIncreaseAmount = 30; // Changement: Montant fixe d'augmentation
-    public int startingResources = 500;
+    public int priceIncreaseAmount = 30;
+    public int startingResources = 5000;
+    public int maxSpawnAttempts = 6;
 
     [Header("Références UI")]
-    public Text priceText; // **IMPORTANT : Utilise UnityEngine.UI.Text**
+    public Text priceText;
     public Button button;
+
+    [Header("Summon Configuration")]
+    public Tilemap tilemap;
+    public GameObject characterPrefab;
 
     private int currentSummonCost;
     private int currentResources;
@@ -25,28 +31,33 @@ public class SummonButton : MonoBehaviour
         currentResources = startingResources;
         currentSummonCost = initialSummonCost;
 
-        // ***Vérifications des références (TRÈS IMPORTANTES)***
         if (priceText == null)
         {
-            Debug.LogError("ERREUR : priceText (UnityEngine.UI.Text) n'est pas assigné ! Assure-toi qu'il est lié dans l'Inspecteur.");
-            enabled = false; // Désactive le script pour éviter les erreurs
+            Debug.LogError("ERREUR : priceText (UnityEngine.UI.Text) n'est pas assigné !");
+            enabled = false;
             return;
         }
 
         if (button == null)
         {
-            button = GetComponent<Button>(); // Récupère le Button sur le même GameObject
+            button = GetComponent<Button>();
             if (button == null)
             {
-                Debug.LogError("ERREUR : Button n'est pas assigné ! Assure-toi qu'il est sur le même GameObject que ce script, ou assigne-le dans l'Inspecteur.");
+                Debug.LogError("ERREUR : Button n'est pas assigné !");
                 enabled = false;
                 return;
             }
         }
 
-        // Ajout du Listener pour le clic du bouton (UNE SEULE FOIS)
-        button.onClick.RemoveAllListeners(); // Retire les listeners existants (pour éviter les doublons)
-        button.onClick.AddListener(OnClick);   // Ajoute la fonction OnClick à l'événement du bouton
+        if (tilemap == null || characterPrefab == null)
+        {
+            Debug.LogError("ERREUR : Tilemap ou CharacterPrefab n'est pas assigné !");
+            enabled = false;
+            return;
+        }
+
+        button.onClick.RemoveAllListeners();
+        button.onClick.AddListener(OnClick);
 
         UpdatePriceText();
         UpdateInteractableState();
@@ -80,12 +91,11 @@ public class SummonButton : MonoBehaviour
     void HandleInsufficientResources()
     {
         Debug.Log("Pas assez de ressources !");
-        // TODO: Ajouter un feedback visuel (par exemple, un message à l'écran)
     }
 
     void IncreasePrice()
     {
-        currentSummonCost += priceIncreaseAmount; // Changement: Additionne un montant fixe
+        currentSummonCost += priceIncreaseAmount;
     }
 
     void UpdateUI()
@@ -106,8 +116,50 @@ public class SummonButton : MonoBehaviour
 
     void SummonUnit()
     {
-        // TODO: Remplacer avec la logique réelle de votre jeu pour invoquer l'unité.
-        Debug.Log("Unité invoquée !");
+        Vector3Int tilePosition = FindFreeTile();
+        if (tilePosition != Vector3Int.one * -1)
+        {
+            Vector3 worldPosition = tilemap.GetCellCenterWorld(tilePosition);
+            GameObject summonedUnit = Instantiate(characterPrefab, worldPosition, Quaternion.identity);
+            
+            // Assurez-vous que l'unité a un Collider2D
+            if (summonedUnit.GetComponent<Collider2D>() == null)
+            {
+                summonedUnit.AddComponent<BoxCollider2D>();
+            }
+            
+            Debug.Log($"Unité invoquée sur la case {tilePosition}!");
+        }
+        else
+        {
+            Debug.Log("Aucune case libre trouvée pour l'invocation!");
+            currentResources += currentSummonCost; // Remboursement du coût
+        }
+    }
+
+    Vector3Int FindFreeTile(int y = 2)
+    {
+        for (int x = 0; x < maxSpawnAttempts; x++)
+        {
+            Vector3Int tilePosition = new Vector3Int(x-4, y, 0);
+            Vector3 worldPosition = tilemap.GetCellCenterWorld(tilePosition);
+            Debug.Log($"Tentative d'invocation à la position : {worldPosition}");
+            if (IsCellFree(worldPosition))
+            {
+                return tilePosition;
+            }
+        }
+        if(y > 0) {
+            return FindFreeTile(y-1);
+        }
+        return Vector3Int.one * -1;
+    }
+
+    bool IsCellFree(Vector3 position)
+    {
+        Vector2 boxSize = new Vector2(0.9f, 0.9f);
+        Collider2D[] hits = Physics2D.OverlapBoxAll(position, boxSize, 0);
+        return hits.Length == 0;
     }
 
     bool HasEnoughResources(int cost)
@@ -119,7 +171,6 @@ public class SummonButton : MonoBehaviour
     {
         currentResources -= cost;
         Debug.Log("Ressources déduites. Ressources restantes: " + currentResources);
-        // TODO: Mettre à jour l'UI pour afficher les ressources restantes.
     }
 }
 

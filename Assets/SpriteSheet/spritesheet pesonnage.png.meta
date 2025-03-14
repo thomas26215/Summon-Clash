@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: 0bc0b23aaab35ea89adb1891f85dda3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4938248131807219018
+    second: spritesheet pesonnage_0
+  - first:
+      213: -3882335030430624632
+    second: spritesheet pesonnage_1
+  - first:
+      213: -4477791440920191861
+    second: spritesheet pesonnage_2
+  - first:
+      213: 2559986840394961674
+    second: spritesheet pesonnage_3
+  - first:
+      213: 1335283869792643237
+    second: spritesheet pesonnage_4
+  - first:
+      213: 3157199495651875546
+    second: spritesheet pesonnage_5
+  - first:
+      213: -7672655851379722340
+    second: spritesheet pesonnage_6
+  - first:
+      213: 7071131972566645381
+    second: spritesheet pesonnage_7
+  - first:
+      213: 3575276811196404434
+    second: spritesheet pesonnage_8
+  - first:
+      213: -3349947883451549926
+    second: spritesheet pesonnage_9
+  - first:
+      213: -7057678824688642768
+    second: spritesheet pesonnage_10
+  - first:
+      213: -6852592590136036042
+    second: spritesheet pesonnage_11
+  - first:
+      213: 7026948363075164366
+    second: spritesheet pesonnage_12
+  - first:
+      213: 3469517894733106233
+    second: spritesheet pesonnage_13
+  - first:
+      213: 8860193345125002945
+    second: spritesheet pesonnage_14
+  - first:
+      213: -9023729331932352921
+    second: spritesheet pesonnage_15
+  - first:
+      213: 3604194099030319406
+    second: spritesheet pesonnage_16
+  - first:
+      213: 9030225553574624174
+    second: spritesheet pesonnage_17
+  - first:
+      213: 3902818703404134692
+    second: spritesheet pesonnage_18
+  - first:
+      213: 1594447645451794196
+    second: spritesheet pesonnage_19
+  - first:
+      213: -883758248645170214
+    second: spritesheet pesonnage_20
+  - first:
+      213: 134391937158175116
+    second: spritesheet pesonnage_21
+  - first:
+      213: 537859483776483584
+    second: spritesheet pesonnage_22
+  - first:
+      213: 4763977689605785018
+    second: spritesheet pesonnage_23
+  - first:
+      213: -7729948444813791002
+    second: spritesheet pesonnage_24
+  - first:
+      213: 8471955562590616496
+    second: spritesheet pesonnage_25
+  - first:
+      213: -457376611595207096
+    second: spritesheet pesonnage_26
+  - first:
+      213: 7206333731926245867
+    second: spritesheet pesonnage_27
+  - first:
+      213: 5088117722021266840
+    second: spritesheet pesonnage_28
+  - first:
+      213: -344747461076356539
+    second: spritesheet pesonnage_29
+  - first:
+      213: 2492976657182946805
+    second: spritesheet pesonnage_30
+  - first:
+      213: 2063631888251465750
+    second: spritesheet pesonnage_31
+  - first:
+      213: -3853337960953852533
+    second: spritesheet pesonnage_32
+  - first:
+      213: 7098264202325668208
+    second: spritesheet pesonnage_33
+  - first:
+      213: -1821915900935685334
+    second: spritesheet pesonnage_34
+  - first:
+      213: -649053256512345234
+    second: spritesheet pesonnage_35
+  - first:
+      213: 4947389345924172901
+    second: spritesheet pesonnage_36
+  - first:
+      213: 7455267017197737126
+    second: spritesheet pesonnage_37
+  - first:
+      213: -4090122093291613169
+    second: spritesheet pesonnage_38
+  - first:
+      213: 1723741562914291848
+    second: spritesheet pesonnage_39
+  - first:
+      213: -6090148104659529459
+    second: spritesheet pesonnage_40
+  - first:
+      213: 7124175371133556877
+    second: spritesheet pesonnage_41
+  - first:
+      213: 9078182306865081604
+    second: spritesheet pesonnage_42
+  - first:
+      213: -3007302210956063292
+    second: spritesheet pesonnage_43
+  - first:
+      213: -2995967506581208425
+    second: spritesheet pesonnage_44
+  - first:
+      213: 6097922223646159661
+    second: spritesheet pesonnage_45
+  - first:
+      213: 7588897845925069938
+    second: spritesheet pesonnage_46
+  - first:
+      213: 2019751570673780814
+    second: spritesheet pesonnage_47
+  - first:
+      213: 1010353408182916384
+    second: spritesheet pesonnage_48
+  - first:
+      213: 4784087012159865129
+    second: spritesheet pesonnage_49
+  - first:
+      213: 6703425635273417261
+    second: spritesheet pesonnage_50
+  - first:
+      213: -2521276850917356584
+    second: spritesheet pesonnage_51
+  - first:
+      213: -4772734687424759453
+    second: spritesheet pesonnage_52
+  - first:
+      213: 3768060760558472272
+    second: spritesheet pesonnage_53
+  - first:
+      213: 6940596890344373672
+    second: spritesheet pesonnage_54
+  - first:
+      213: -8063002333385683029
+    second: spritesheet pesonnage_55
+  - first:
+      213: -8049795983013430515
+    second: spritesheet pesonnage_56
+  - first:
+      213: -8747570711024152414
+    second: spritesheet pesonnage_57
+  - first:
+      213: 1100741225473743353
+    second: spritesheet pesonnage_58
+  - first:
+      213: -9043376550515985731
+    second: spritesheet pesonnage_59
+  - first:
+      213: 4256021061629320350
+    second: spritesheet pesonnage_60
+  - first:
+      213: -1256755496610889324
+    second: spritesheet pesonnage_61
+  - first:
+      213: -7948563805860133530
+    second: spritesheet pesonnage_62
+  - first:
+      213: -2057314506837111374
+    second: spritesheet pesonnage_63
+  - first:
+      213: 7363644217327905848
+    second: spritesheet pesonnage_64
+  - first:
+      213: 5591769507090198567
+    second: spritesheet pesonnage_65
+  - first:
+      213: 2346148099420413221
+    second: spritesheet pesonnage_66
+  - first:
+      213: -4417183672635503100
+    second: spritesheet pesonnage_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet pesonnage_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 224
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d0b1d038e288440800000000000000
+      internalID: 4938248131807219018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884902cfbdc2f1ac0800000000000000
+      internalID: -3882335030430624632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cdaa9a860bbd1c0800000000000000
+      internalID: -4477791440920191861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a039a6bc776e68320800000000000000
+      internalID: 2559986840394961674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 224
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8ac4dda91e78210800000000000000
+      internalID: 1335283869792643237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 224
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada5f57b630a0db20800000000000000
+      internalID: 3157199495651875546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 224
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9770b69720458590800000000000000
+      internalID: -7672655851379722340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 224
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58afdb88015b12260800000000000000
+      internalID: 7071131972566645381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 224
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d29d01315fed9130800000000000000
+      internalID: 3575276811196404434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 224
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a177cc616289281d0800000000000000
+      internalID: -3349947883451549926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 224
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03513ab80861e0e90800000000000000
+      internalID: -7057678824688642768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 224
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635b77a8853b6e0a0800000000000000
+      internalID: -6852592590136036042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 224
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec89b1c4e4cb48160800000000000000
+      internalID: 7026948363075164366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 194
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c8d699424362030800000000000000
+      internalID: 3469517894733106233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 196
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cea47177eab5fa70800000000000000
+      internalID: 8860193345125002945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 194
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e26ec7bf545c280800000000000000
+      internalID: -9023729331932352921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 192
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21e24eef6ba40230800000000000000
+      internalID: 3604194099030319406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 193
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab787afb4ec15d70800000000000000
+      internalID: 9030225553574624174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 194
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4217727cee8992630800000000000000
+      internalID: 3902818703404134692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 193
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417bc109fad902610800000000000000
+      internalID: 1594447645451794196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_20
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 192
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbee222e824cb3f0800000000000000
+      internalID: -883758248645170214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c895dfa31c47dd100800000000000000
+      internalID: 134391937158175116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 161
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001829dc95cd67700800000000000000
+      internalID: 537859483776483584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 161
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5c6d2d77c0d1240800000000000000
+      internalID: 4763977689605785018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 162
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e07ace28d4b9b490800000000000000
+      internalID: -7729948444813791002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 161
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbbb15a2be629570800000000000000
+      internalID: 8471955562590616496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ebb41256217a9f0800000000000000
+      internalID: -457376611595207096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 160
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be10160395a020460800000000000000
+      internalID: 7206333731926245867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_28
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 160
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89582743c10ac9640800000000000000
+      internalID: 5088117722021266840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 160
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542735db206373bf0800000000000000
+      internalID: -344747461076356539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 160
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5fab4bf05d89220800000000000000
+      internalID: 2492976657182946805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 128
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610b56ec44e73ac10800000000000000
+      internalID: 2063631888251465750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 127
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d41d55a81368ac0800000000000000
+      internalID: -3853337960953852533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 127
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0713e7d0fa9128260800000000000000
+      internalID: 7098264202325668208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 127
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bb71a142147b6e0800000000000000
+      internalID: -1821915900935685334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 127
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b654580891ef6f0800000000000000
+      internalID: -649053256512345234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 127
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ccc51d568a8a440800000000000000
+      internalID: 4947389345924172901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 128
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4d1c93add667760800000000000000
+      internalID: 7455267017197737126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_38
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 128
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04506560a7fc37c0800000000000000
+      internalID: -4090122093291613169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_39
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880451691d5fbe710800000000000000
+      internalID: 1723741562914291848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_40
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 128
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d011048d0927b7ba0800000000000000
+      internalID: -6090148104659529459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88900a21c72ed260800000000000000
+      internalID: 7124175371133556877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 95
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dede6b5be2cfd70800000000000000
+      internalID: 9078182306865081604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd87bf829ae346d0800000000000000
+      internalID: -3007302210956063292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7924d931d6f2c66d0800000000000000
+      internalID: -2995967506581208425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_45
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 96
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23b36844fb20a450800000000000000
+      internalID: 6097922223646159661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_46
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 96
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2744717126e215960800000000000000
+      internalID: 7588897845925069938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_47
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 96
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e484c883a59970c10800000000000000
+      internalID: 2019751570673780814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_48
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 96
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0251958521f750e00800000000000000
+      internalID: 1010353408182916384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_49
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 96
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92149565acd746240800000000000000
+      internalID: 4784087012159865129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_50
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 96
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2228b8591a570d50800000000000000
+      internalID: 6703425635273417261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_51
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbc7a8ff00a20dd0800000000000000
+      internalID: -2521276850917356584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_52
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369bcdcb617d3cdb0800000000000000
+      internalID: -4772734687424759453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 66
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c0d253c47da4430800000000000000
+      internalID: 3768060760558472272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_54
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 69
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad38225914f15060800000000000000
+      internalID: 6940596890344373672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_55
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 68
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf866fe8167a1090800000000000000
+      internalID: -8063002333385683029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_56
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b3e1ef331694090800000000000000
+      internalID: -8049795983013430515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a05bc1f8c26a9680800000000000000
+      internalID: -8747570711024152414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_58
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 32
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f99df5005e964f00800000000000000
+      internalID: 1100741225473743353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2b560f0f87f7280800000000000000
+      internalID: -9043376550515985731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_60
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 32
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c1ffe2b9c601b30800000000000000
+      internalID: 4256021061629320350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4910dfec88b1f8ee0800000000000000
+      internalID: -1256755496610889324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6650e25f45701b190800000000000000
+      internalID: -7948563805860133530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd47bc2b53f273e0800000000000000
+      internalID: -2057314506837111374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_64
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c6032c66be03660800000000000000
+      internalID: 7363644217327905848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720f8ff7db4f99d40800000000000000
+      internalID: 5591769507090198567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_66
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d596814413f8020800000000000000
+      internalID: 2346148099420413221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet pesonnage_67
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ec7ec5ad203b2c0800000000000000
+      internalID: -4417183672635503100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spritesheet pesonnage_0: 4938248131807219018
+      spritesheet pesonnage_1: -3882335030430624632
+      spritesheet pesonnage_10: -7057678824688642768
+      spritesheet pesonnage_11: -6852592590136036042
+      spritesheet pesonnage_12: 7026948363075164366
+      spritesheet pesonnage_13: 3469517894733106233
+      spritesheet pesonnage_14: 8860193345125002945
+      spritesheet pesonnage_15: -9023729331932352921
+      spritesheet pesonnage_16: 3604194099030319406
+      spritesheet pesonnage_17: 9030225553574624174
+      spritesheet pesonnage_18: 3902818703404134692
+      spritesheet pesonnage_19: 1594447645451794196
+      spritesheet pesonnage_2: -4477791440920191861
+      spritesheet pesonnage_20: -883758248645170214
+      spritesheet pesonnage_21: 134391937158175116
+      spritesheet pesonnage_22: 537859483776483584
+      spritesheet pesonnage_23: 4763977689605785018
+      spritesheet pesonnage_24: -7729948444813791002
+      spritesheet pesonnage_25: 8471955562590616496
+      spritesheet pesonnage_26: -457376611595207096
+      spritesheet pesonnage_27: 7206333731926245867
+      spritesheet pesonnage_28: 5088117722021266840
+      spritesheet pesonnage_29: -344747461076356539
+      spritesheet pesonnage_3: 2559986840394961674
+      spritesheet pesonnage_30: 2492976657182946805
+      spritesheet pesonnage_31: 2063631888251465750
+      spritesheet pesonnage_32: -3853337960953852533
+      spritesheet pesonnage_33: 7098264202325668208
+      spritesheet pesonnage_34: -1821915900935685334
+      spritesheet pesonnage_35: -649053256512345234
+      spritesheet pesonnage_36: 4947389345924172901
+      spritesheet pesonnage_37: 7455267017197737126
+      spritesheet pesonnage_38: -4090122093291613169
+      spritesheet pesonnage_39: 1723741562914291848
+      spritesheet pesonnage_4: 1335283869792643237
+      spritesheet pesonnage_40: -6090148104659529459
+      spritesheet pesonnage_41: 7124175371133556877
+      spritesheet pesonnage_42: 9078182306865081604
+      spritesheet pesonnage_43: -3007302210956063292
+      spritesheet pesonnage_44: -2995967506581208425
+      spritesheet pesonnage_45: 6097922223646159661
+      spritesheet pesonnage_46: 7588897845925069938
+      spritesheet pesonnage_47: 2019751570673780814
+      spritesheet pesonnage_48: 1010353408182916384
+      spritesheet pesonnage_49: 4784087012159865129
+      spritesheet pesonnage_5: 3157199495651875546
+      spritesheet pesonnage_50: 6703425635273417261
+      spritesheet pesonnage_51: -2521276850917356584
+      spritesheet pesonnage_52: -4772734687424759453
+      spritesheet pesonnage_53: 3768060760558472272
+      spritesheet pesonnage_54: 6940596890344373672
+      spritesheet pesonnage_55: -8063002333385683029
+      spritesheet pesonnage_56: -8049795983013430515
+      spritesheet pesonnage_57: -8747570711024152414
+      spritesheet pesonnage_58: 1100741225473743353
+      spritesheet pesonnage_59: -9043376550515985731
+      spritesheet pesonnage_6: -7672655851379722340
+      spritesheet pesonnage_60: 4256021061629320350
+      spritesheet pesonnage_61: -1256755496610889324
+      spritesheet pesonnage_62: -7948563805860133530
+      spritesheet pesonnage_63: -2057314506837111374
+      spritesheet pesonnage_64: 7363644217327905848
+      spritesheet pesonnage_65: 5591769507090198567
+      spritesheet pesonnage_66: 2346148099420413221
+      spritesheet pesonnage_67: -4417183672635503100
+      spritesheet pesonnage_7: 7071131972566645381
+      spritesheet pesonnage_8: 3575276811196404434
+      spritesheet pesonnage_9: -3349947883451549926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
