@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Tilemaps;
+using System.Collections.Generic;
 
 public class SummonButton : MonoBehaviour
 {
@@ -16,56 +17,39 @@ public class SummonButton : MonoBehaviour
 
     [Header("Summon Configuration")]
     public Tilemap tilemap;
-    public GameObject characterPrefab;
+
+    [Header("Deck Configuration")]
+    public DeckData deckData;
 
     private int currentSummonCost;
     private int currentResources;
 
-    void Start()
-    {
-        InitializeButton();
-    }
+    void Start() => InitializeButton();
 
     void InitializeButton()
     {
         currentResources = startingResources;
         currentSummonCost = initialSummonCost;
 
-        if (priceText == null)
+        if (!ValidateReferences())
         {
-            Debug.LogError("ERREUR : priceText (UnityEngine.UI.Text) n'est pas assigné !");
-            enabled = false;
-            return;
-        }
-
-        if (button == null)
-        {
-            button = GetComponent<Button>();
-            if (button == null)
-            {
-                Debug.LogError("ERREUR : Button n'est pas assigné !");
-                enabled = false;
-                return;
-            }
-        }
-
-        if (tilemap == null || characterPrefab == null)
-        {
-            Debug.LogError("ERREUR : Tilemap ou CharacterPrefab n'est pas assigné !");
             enabled = false;
             return;
         }
 
         button.onClick.RemoveAllListeners();
-        button.onClick.AddListener(OnClick);
-
-        UpdatePriceText();
-        UpdateInteractableState();
+        button.onClick.AddListener(TrySummon);
+        UpdateUI();
     }
 
-    void OnClick()
+    bool ValidateReferences()
     {
-        TrySummon();
+        if (priceText == null) Debug.LogError("PriceText non assigné !");
+        if (button == null) Debug.LogError("Button non assigné !");
+        if (tilemap == null) Debug.LogError("Tilemap non assigné !");
+        if (deckData == null) Debug.LogError("DeckData non assigné !");
+
+        return priceText && button && tilemap && deckData;
     }
 
     void TrySummon()
@@ -76,101 +60,98 @@ public class SummonButton : MonoBehaviour
         }
         else
         {
-            HandleInsufficientResources();
+            Debug.Log("Ressources insuffisantes !");
         }
     }
 
     void PerformSummon()
     {
         DeductResources(currentSummonCost);
-        SummonUnit();
+        if (!TrySummonUnit())
+        {
+            currentResources += currentSummonCost; // Remboursement
+        }
         IncreasePrice();
         UpdateUI();
     }
 
-    void HandleInsufficientResources()
+    bool TrySummonUnit()
     {
-        Debug.Log("Pas assez de ressources !");
-    }
+        var character = GetRandomCharacter();
+        var position = FindFreeTile();
 
-    void IncreasePrice()
-    {
-        currentSummonCost += priceIncreaseAmount;
-    }
-
-    void UpdateUI()
-    {
-        UpdatePriceText();
-        UpdateInteractableState();
-    }
-
-    void UpdatePriceText()
-    {
-        priceText.text = currentSummonCost.ToString();
-    }
-
-    void UpdateInteractableState()
-    {
-        button.interactable = HasEnoughResources(currentSummonCost);
-    }
-
-    void SummonUnit()
-    {
-        Vector3Int tilePosition = FindFreeTile();
-        if (tilePosition != Vector3Int.one * -1)
+        if (position == Vector3Int.one * -1 || character?.prefab == null)
         {
-            Vector3 worldPosition = tilemap.GetCellCenterWorld(tilePosition);
-            GameObject summonedUnit = Instantiate(characterPrefab, worldPosition, Quaternion.identity);
-            
-            // Assurez-vous que l'unité a un Collider2D
-            if (summonedUnit.GetComponent<Collider2D>() == null)
-            {
-                summonedUnit.AddComponent<BoxCollider2D>();
-            }
-            
-            Debug.Log($"Unité invoquée sur la case {tilePosition}!");
+            Debug.Log("Échec de l'invocation");
+            return false;
         }
-        else
+
+        InstantiateCharacter(character, position);
+        return true;
+    }
+
+    void InstantiateCharacter(CharacterData character, Vector3Int tilePosition)
+    {
+        Vector3 worldPos = tilemap.GetCellCenterWorld(tilePosition);
+        GameObject unit = Instantiate(character.prefab, worldPos, Quaternion.identity);
+        
+        if (!unit.GetComponent<Collider2D>())
         {
-            Debug.Log("Aucune case libre trouvée pour l'invocation!");
-            currentResources += currentSummonCost; // Remboursement du coût
+            unit.AddComponent<BoxCollider2D>();
         }
+        
+        Debug.Log($"Invoqué : {character.characterName} ({character.rarity})");
+    }
+
+    CharacterData GetRandomCharacter()
+    {
+        float rand = Random.value;
+        List<CharacterData> selectedList = null;
+
+        if (rand <= DeckData.COMMON_PROBABILITY) selectedList = deckData.commonCharacters;
+        else if (rand <= DeckData.COMMON_PROBABILITY + DeckData.UNCOMMON_PROBABILITY) selectedList = deckData.uncommonCharacters;
+        else if (rand <= DeckData.COMMON_PROBABILITY + DeckData.UNCOMMON_PROBABILITY + DeckData.RARE_PROBABILITY) selectedList = deckData.rareCharacters;
+        else if (rand <= DeckData.COMMON_PROBABILITY + DeckData.UNCOMMON_PROBABILITY + DeckData.RARE_PROBABILITY + DeckData.EPIC_PROBABILITY) selectedList = deckData.epicCharacters;
+        else if (rand <= DeckData.COMMON_PROBABILITY + DeckData.UNCOMMON_PROBABILITY + DeckData.RARE_PROBABILITY + DeckData.EPIC_PROBABILITY + DeckData.LEGENDARY_PROBABILITY) selectedList = deckData.legendaryCharacters;
+        else selectedList = deckData.mythicCharacters;
+
+        return SelectFromList(selectedList);
+    }
+
+    CharacterData SelectFromList(List<CharacterData> list)
+    {
+        if (list == null || list.Count == 0)
+        {
+            Debug.LogWarning("Liste vide - Retour aux communs");
+            return deckData.commonCharacters.Count > 0 ? 
+                deckData.commonCharacters[Random.Range(0, deckData.commonCharacters.Count)] : 
+                null;
+        }
+        return list[Random.Range(0, list.Count)];
     }
 
     Vector3Int FindFreeTile(int y = 2)
     {
         for (int x = 0; x < maxSpawnAttempts; x++)
         {
-            Vector3Int tilePosition = new Vector3Int(x-4, y, 0);
-            Vector3 worldPosition = tilemap.GetCellCenterWorld(tilePosition);
-            Debug.Log($"Tentative d'invocation à la position : {worldPosition}");
-            if (IsCellFree(worldPosition))
-            {
-                return tilePosition;
-            }
+            Vector3Int pos = new Vector3Int(x - 4, y, 0);
+            if (IsCellFree(tilemap.GetCellCenterWorld(pos))) return pos;
         }
-        if(y > 0) {
-            return FindFreeTile(y-1);
-        }
-        return Vector3Int.one * -1;
+        return y > 0 ? FindFreeTile(y - 1) : Vector3Int.one * -1;
     }
 
-    bool IsCellFree(Vector3 position)
+    bool IsCellFree(Vector3 position) => 
+        Physics2D.OverlapBoxAll(position, new Vector2(0.9f, 0.9f), 0).Length == 0;
+
+    // Méthodes utilitaires restantes
+    void IncreasePrice() => currentSummonCost += priceIncreaseAmount;
+    void UpdateUI()
     {
-        Vector2 boxSize = new Vector2(0.9f, 0.9f);
-        Collider2D[] hits = Physics2D.OverlapBoxAll(position, boxSize, 0);
-        return hits.Length == 0;
+        priceText.text = currentSummonCost.ToString();
+        button.interactable = HasEnoughResources(currentSummonCost);
     }
 
-    bool HasEnoughResources(int cost)
-    {
-        return currentResources >= cost;
-    }
-
-    void DeductResources(int cost)
-    {
-        currentResources -= cost;
-        Debug.Log("Ressources déduites. Ressources restantes: " + currentResources);
-    }
+    bool HasEnoughResources(int cost) => currentResources >= cost;
+    void DeductResources(int cost) => currentResources = Mathf.Max(0, currentResources - cost);
 }
 

@@ -1108,7 +1108,7 @@ Transform:
   m_GameObject: {fileID: 990276815}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.000061035156, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4251,8 +4251,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialSummonCost: 30
   priceIncreaseAmount: 30
-  startingResources: 500
-  maxSpawnAttempts: 3
+  startingResources: 5000
+  maxSpawnAttempts: 6
   priceText: {fileID: 1516279310}
   button: {fileID: 94544416}
   tilemap: {fileID: 1163404001}

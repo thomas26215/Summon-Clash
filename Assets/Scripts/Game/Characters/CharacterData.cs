@@ -5,11 +5,12 @@ public class CharacterData : ScriptableObject
 {
     public string characterName;
     public Sprite characterSprite;
-    public GameObject prefab; //prefab de l'unité
-    //public Rarity rarity;
+    public GameObject prefab;
+    public string rarity; // Variable conservée entre parenthèses
 
     public int maxHealth;
     public int attackDamage;
     public float attackSpeed;
     public float attackRange;
 }
+
